@@ -1,7 +1,7 @@
 # GsouCloud机场官方地址（2026年06月29日更新）
 GsouCloud机场官网地址<br>
-最新地址：[wackyw.xyz](https://wackyw.xyz/auth/register?code=P9xIn1)
-官方地址：[ggemnt.xyz](https://ggemnt.xyz/auth/register?code=P9xIn1)<br>
+最新地址：[wackyw.xyz](https://wackyw.xyz/auth/register?code=P9xIn1)</br>
+官方地址：[ggemnt.xyz](https://ggemnt.xyz/auth/register?code=P9xIn1)</br>
 ## 邀请码
 ```bash
 P9xIn1
