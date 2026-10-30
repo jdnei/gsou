@@ -1,10 +1,10 @@
 # GsouCloud机场官方地址(2026年10月30日更新)
 GsouCloud机场官网地址<br>
-最新地址：[wackyw.xyz](https://wackyw.xyz/auth/register?code=P9xIn1)</br>
-官方地址：[ggemnt.xyz](https://ggemnt.xyz/auth/register?code=P9xIn1)</br>
+最新地址：[wackyw.xyz](https://wackyw.xyz/auth/register?code=GyncWLWz)</br>
+官方地址：[ggemnt.xyz](https://ggemnt.xyz/auth/register?code=GyncWLWz)</br>
 ## 邀请码
 ```bash
-P9xIn1
+GyncWLWz
 ```
 ## 简介
 Gsou Cloud 是一家专注于提供高速稳定网络加速服务的机场，致力于通过多节点负载均衡技术，为用户打造低延迟、高带宽的跨境网络访问环境，广泛应用于流媒体解锁、高效办公及网络游戏加速等场景，是追求极速网络体验用户的理想选择。
