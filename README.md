@@ -1,4 +1,4 @@
-# GsouCloud机场官方地址(2026年10月30日更新)
+# GsouCloud机场官方地址(2026年10月31日更新)
 GsouCloud机场官网地址<br>
 最新地址：[wackyw.xyz](https://wackyw.xyz/auth/register?code=GyncWLWz)</br>
 官方地址：[ggemnt.xyz](https://ggemnt.xyz/auth/register?code=GyncWLWz)</br>
