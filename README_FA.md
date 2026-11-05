@@ -1,7 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-
-# آدرس رسمی VPN جی‌سو کلاد (GsouCloud) - به‌روزرسانی ۲ نوامبر ۲۰۲۶
-
+# آدرس رسمی VPN جی‌سو کلاد (GsouCloud) - (به‌روزرسانی 4 نوامبر 2026)
 وب‌سایت رسمی VPN جی‌سو کلاد (GsouCloud)<br>
 جدیدترین آدرس: [wackyw.xyz](https://to.iix.im/gsou01)<br>
 آدرس رسمی: [ggemnt.xyz](https://to.iix.im/gsou02)<br>
