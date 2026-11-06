@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт GsouCloud VPN (обновлено 5 ноября 2026)
+# Официальный сайт GsouCloud VPN (обновлено 6 ноября 2026)
 
 Официальный сайт VPN-сервиса GsouCloud<br>
 Новый адрес: [wackyw.xyz](https://to.iix.im/gsou01)<br>
